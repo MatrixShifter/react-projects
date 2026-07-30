@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=React%20Projects&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -294,10 +294,4 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
->>>>>>> master
+
