@@ -1,0 +1,28 @@
+.gallery {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  justify-items: center;
+}
+
+.gallery-item {
+  list-style-type: none;
+}
+
+.thumbnail-btn {
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.thumbnail-image {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  display: block;
+}
