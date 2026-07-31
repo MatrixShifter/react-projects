@@ -1,0 +1,19 @@
+.container {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.container h1 {
+  font-size: 36px;
+  color: #551e53;
+  margin-bottom: 25px;
+}
+
+.container img {
+  width: 320px;
+  max-width: 90%;
+}
