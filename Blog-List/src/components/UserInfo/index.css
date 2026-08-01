@@ -1,0 +1,16 @@
+.profile {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+.profile p{
+  color: #9aa5b1;
+}

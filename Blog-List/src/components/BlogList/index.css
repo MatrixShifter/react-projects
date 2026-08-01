@@ -1,0 +1,12 @@
+.content-container {
+  list-style-type: none;
+  border-bottom: 1px solid #9aa5b1;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-container h1 {
+  font-size: 20px;
+}
